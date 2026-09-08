@@ -1,9 +1,9 @@
-# ⛅ Automated Weather Data Pipeline
+# Automated Weather Data Pipeline
 
-## 📖 Project Overview
+## Project Overview
 This repository contains a fully automated, end-to-end data pipeline that extracts real-time weather data, transforms it for analytical queries, and serves it to a visualization dashboard. The entire infrastructure is containerized using Docker, ensuring seamless deployment and reproducibility.
 
-## 🏗️ Architecture
+## Architecture
 Orchestration: Apache Airflow - Manages and schedules the workflow dependencies.
 
 Extraction: Python 3 - Handles HTTP requests to the Weatherstack API and parses the raw data.
