@@ -1,8 +1,7 @@
 # Automated Weather Data Pipeline
 
 ## Project Overview
-This repository contains a fully automated, end-to-end data pipeline that extracts real-time weather data, transforms it for analytical queries, and serves it to a visualization dashboard. The entire infrastructure is containerized using Docker, ensuring seamless deployment and reproducibility.
-
+This repository contains a fully automated, end-to-end data pipeline that extracts real-time weather data, transforms it for analytical queries, and serves it to a visualization dashboard. The entire infrastructure is containerized using Docker.
 ## Architecture
 Orchestration: Apache Airflow - Manages and schedules the workflow dependencies.
 
